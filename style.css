@@ -1,0 +1,14 @@
+img {
+    image-rendering: 1000px;
+}
+
+body {
+    background-color: aqua;
+}
+
+body { 
+    text-decoration: black;
+    text-size-adjust: 1000px;
+    -moz-text-size-adjust: 200%;
+}
+
